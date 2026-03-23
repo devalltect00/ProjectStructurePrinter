@@ -1,0 +1,16 @@
+annotated-types==0.7.0
+colorama==0.4.6
+custy @ git+https://github.com/devalltect00/Custy.git@d0e738133a102efb3619aed7b3c95821d864f12d
+Jinja2==3.1.6
+markdown-it-py==4.0.0
+MarkupSafe==3.0.3
+mdurl==0.1.2
+pydantic==2.12.5
+pydantic_core==2.41.5
+pyfiglet==1.0.4
+Pygments==2.19.2
+rich==14.3.3
+termcolor==3.3.0
+toml==0.10.2
+typing-inspection==0.4.2
+typing_extensions==4.15.0
